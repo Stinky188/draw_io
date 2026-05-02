@@ -18,7 +18,7 @@
             <mxPoint x="160.0666666666666" y="130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mVMcnRNJooNBmQ9YAk_B-55" parent="f7Ks8EoNQ2PZTetNXwv1-2497" style="swimlane;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;Sous-réseau A (6 hosts, 1 GW)&lt;/div&gt;" vertex="1">
+        <mxCell id="mVMcnRNJooNBmQ9YAk_B-55" parent="f7Ks8EoNQ2PZTetNXwv1-2497" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;div align=&quot;left&quot;&gt;Sous-réseau A (6 hosts, 1 GW)&lt;/div&gt;" vertex="1">
           <mxGeometry height="230" width="310" x="5" y="240" as="geometry" />
         </mxCell>
         <mxCell id="mVMcnRNJooNBmQ9YAk_B-56" parent="mVMcnRNJooNBmQ9YAk_B-55" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;labelPosition=left;" value="Switch" vertex="1">
@@ -111,7 +111,7 @@
             <mxPoint x="590" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mVMcnRNJooNBmQ9YAk_B-69" parent="f7Ks8EoNQ2PZTetNXwv1-2513" style="swimlane;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;Sous-réseau B (4 hosts, 1 GW)&lt;/div&gt;" vertex="1">
+        <mxCell id="mVMcnRNJooNBmQ9YAk_B-69" parent="f7Ks8EoNQ2PZTetNXwv1-2513" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div align=&quot;left&quot;&gt;Sous-réseau B (4 hosts, 1 GW)&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="220" x="20" y="280" as="geometry" />
         </mxCell>
         <mxCell id="mVMcnRNJooNBmQ9YAk_B-70" parent="mVMcnRNJooNBmQ9YAk_B-69" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;labelPosition=left;" value="Switch" vertex="1">
@@ -144,7 +144,7 @@
         <mxCell id="mVMcnRNJooNBmQ9YAk_B-100" parent="mVMcnRNJooNBmQ9YAk_B-69" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Bureau Comptabilité" vertex="1">
           <mxGeometry height="30" width="121" x="9" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="mVMcnRNJooNBmQ9YAk_B-79" parent="f7Ks8EoNQ2PZTetNXwv1-2513" style="swimlane;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;Sous-réseau C (3 hosts, 1 GW)&lt;/div&gt;" vertex="1">
+        <mxCell id="mVMcnRNJooNBmQ9YAk_B-79" parent="f7Ks8EoNQ2PZTetNXwv1-2513" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div align=&quot;left&quot;&gt;Sous-réseau C (3 hosts, 1 GW)&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="220" x="250" y="280" as="geometry" />
         </mxCell>
         <mxCell id="mVMcnRNJooNBmQ9YAk_B-80" parent="mVMcnRNJooNBmQ9YAk_B-79" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;labelPosition=left;" value="Switch" vertex="1">
@@ -171,7 +171,7 @@
         <mxCell id="mVMcnRNJooNBmQ9YAk_B-87" edge="1" parent="mVMcnRNJooNBmQ9YAk_B-79" source="mVMcnRNJooNBmQ9YAk_B-86" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.87;entryY=0.74;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="mVMcnRNJooNBmQ9YAk_B-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mVMcnRNJooNBmQ9YAk_B-88" parent="f7Ks8EoNQ2PZTetNXwv1-2513" style="swimlane;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;Sous-réseau D (2 hosts, 1 GW)&lt;/div&gt;" vertex="1">
+        <mxCell id="mVMcnRNJooNBmQ9YAk_B-88" parent="f7Ks8EoNQ2PZTetNXwv1-2513" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div align=&quot;left&quot;&gt;Sous-réseau D (2 hosts, 1 GW)&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="220" x="480" y="280" as="geometry" />
         </mxCell>
         <mxCell id="mVMcnRNJooNBmQ9YAk_B-89" parent="mVMcnRNJooNBmQ9YAk_B-88" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;labelPosition=left;" value="Switch" vertex="1">
